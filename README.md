@@ -5,7 +5,7 @@
 python=3.6.5
 安装依赖：
 pip install -r requirements.txt
-编译成exe：
+编译成exe(适用于win7,win10)：
 pyinstaller -F -w -i icon\gupiao.ico gupiao.py
 ```
 
@@ -13,10 +13,10 @@ pyinstaller -F -w -i icon\gupiao.ico gupiao.py
 
 ![example_01.png](https://github.com/createor/gupiao/blob/master/icon/example_01.png)
 
-设置界面：
+搜索界面：
 
 ![example_02.png](https://github.com/createor/gupiao/blob/master/icon/example_02.png)
 
-搜索界面：
+设置界面：
 
 ![example_03.png](https://github.com/createor/gupiao/blob/master/icon/example_03.png)
