@@ -1,0 +1,5 @@
+PyQt5==5.15.4
+pywin32==227
+requests==2.21.0
+configparser==5.0.0
+APScheduler==3.7.0
